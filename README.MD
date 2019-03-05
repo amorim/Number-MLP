@@ -3,7 +3,7 @@
 ## Dados
 A rede foi treinada para reconhecer os números 6, 5 e 2, correspondentes às iniciais do meu nome (L, O e A), conforme tabela abaixo:
 
-![Tabela para conversão de números para letras] (https://this-loli-have-a.pretty-pant.su/VzDYWNblyk.jpeg)
+![Tabela para conversão de números para letras](https://this-loli-have-a.pretty-pant.su/VzDYWNblyk.jpeg)
 
 Os pesos e vieses da rede pré-treinada podem ser conferidos nessa [planilha](https://docs.google.com/spreadsheets/d/19OTK7q21ptjK1_ExsOBQQbCfRZqPML6jkRyViQbD1Cs/edit?usp=sharing).
 
