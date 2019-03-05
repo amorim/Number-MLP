@@ -11,7 +11,7 @@ Para facilitar, o script `driver.py` já vem configurado para carregar os dados 
 
 ## Termo de garantia
 
-A garantia dessa rede neural com os dados fornecidos é o acerto médio de 99,6% das imagens a ela fornecidas, seguindo as seguintes restrições:
+A garantia dessa rede neural com os dados fornecidos é o acerto médio amortizado de 99,6% das imagens a ela fornecidas, seguindo as seguintes restrições:
 
 - Fonte Arial ou Arial Bold tamanho 18;
 - Resolução da imagem 28x28;
@@ -20,7 +20,7 @@ A garantia dessa rede neural com os dados fornecidos é o acerto médio de 99,6%
 - Rotação do número entre -45º e 45º, inclusivo;
 - Translação do número a partir do centro em até 7 pixels.
 
-Imagens que deixam de cumprir pelo menos uma dessas especificações não são qualificadas para a garantia de acerto médio de 99,6%.
+Imagens que deixam de cumprir pelo menos uma dessas especificações não são qualificadas para a garantia de acerto médio amortizado de 99,6%.
 
 ## Gerar dados e treinar uma nova rede
 
